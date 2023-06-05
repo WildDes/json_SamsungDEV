@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Aldi>
+    <direccion>C. Montes de Oca 15</direccion>
+    <codigoPostal>29007</codigoPostal>
+    <coordenadas>
+        <norte>36.72021029835404º</norte>
+        <sur></sur>
+        <este></este>
+        <oeste>-4.42994967928437º</oeste>
+    </coordenadas>
+    <productos>
+        <panaderia>
+            <producto>Baguetina</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>100</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.25</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>false</comprado>
+        </panaderia>
+        <panaderia>
+            <producto>pan chapata</producto>
+            <marca>El horno</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>334</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.99</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </panaderia>
+        <fruteria>
+            <producto>Sandia</producto>
+            <marca>Aldi</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>1000</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.89</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+        <fruteria>
+            <producto>Kiwi</producto>
+            <marca>Gutbio</marca>
+            <informacion>
+                <unidades>1</unidades>
+                <fresco>true</fresco>
+                <formato>al peso</formato>
+                <cantidad>600</cantidad>
+                <unidadMedida> gramos</unidadMedida>
+            </informacion>
+            <precioVta>1.79</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>true</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+    </productos>
+</Aldi>

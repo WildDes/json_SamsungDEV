@@ -1,0 +1,227 @@
+{
+  "Aldi": [
+    {
+      "direccion": "C. Montes de Oca,15",
+      "codigoPostal": 29007,
+      "coordenadas": "36.72021029835404, -4.42994967928437",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "Baguetina",
+              "marca": "El horno",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 100,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.25,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": false
+            },
+            {
+              "producto": "pan chapata",
+              "marca": "El horno",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 334,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.99,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "Sandia",
+              "marca": "Aldi",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 1000,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.89,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "Kiwi",
+              "marca": "Gutbio",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 600,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.79,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Carrefour": [
+    {
+      "direccion": "Prolongación, Av. de Andalucía, s/n",
+      "codigoPostal": 29007,
+      "coordenadas": "36.71617802776037, -4.455899853510351",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan de pueblo",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 600,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.63,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": false
+            },
+            {
+              "producto": "pan pistola",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "congelado",
+                "cantidad": 250,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.47,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "manzana",
+              "marca": "Carrefour",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 1,
+                "unidadMedida": "Kg"
+              },
+              "precioVta": 2.75,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "calabacin",
+              "marca": "Bio",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "bolsa",
+                "cantidad": 1,
+                "unidadMedida": "Kilo"
+              },
+              "precioVta": 1.49,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Lidl": [
+    {
+      "direccion": "Av. de José Ortega y Gasset, 224",
+      "codigoPostal": 29006,
+      "coordenadas": "36.7085108084286, -4.470448500791865",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "chapata",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 300,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.65,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "pan de espelta",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 300,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.75,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "cereza",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 500,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.99,
+              "perecedero": true,
+              "enOferta": true,
+              "comprado": true
+            },
+            {
+              "producto": "platano ecologico",
+              "marca": "Lidl delight",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "al peso",
+                "cantidad": 1000,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.99,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
